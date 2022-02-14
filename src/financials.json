@@ -1,0 +1,434 @@
+[
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "charge",
+    "subType": "principal",
+    "currencyAmount": 4.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "charge",
+    "subType": "tax",
+    "currencyAmount": 0.39,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "charge",
+    "subType": "wrapping",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "charge",
+    "subType": "wrapping-tax",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "charge",
+    "subType": "shipping",
+    "currencyAmount": 0.61,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "charge",
+    "subType": "shipping-tax",
+    "currencyAmount": 0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "fee",
+    "subType": "shipping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "fee",
+    "subType": "wrapping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-03T16:33:42Z",
+    "orderId": "ban-1",
+    "type": "fee",
+    "subType": "handling",
+    "currencyAmount": -0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "charge",
+    "subType": "principal",
+    "currencyAmount": 4.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "charge",
+    "subType": "tax",
+    "currencyAmount": 0.39,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "charge",
+    "subType": "wrapping",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "charge",
+    "subType": "wrapping-tax",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "charge",
+    "subType": "shipping",
+    "currencyAmount": 0.61,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "charge",
+    "subType": "shipping-tax",
+    "currencyAmount": 0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "fee",
+    "subType": "shipping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "fee",
+    "subType": "wrapping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-06T07:21:31Z",
+    "orderId": "ban-2",
+    "type": "fee",
+    "subType": "handling",
+    "currencyAmount": -0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "charge",
+    "subType": "principal",
+    "currencyAmount": 4.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "charge",
+    "subType": "tax",
+    "currencyAmount": 0.39,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "charge",
+    "subType": "wrapping",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "charge",
+    "subType": "wrapping-tax",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "charge",
+    "subType": "shipping",
+    "currencyAmount": 0.61,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "charge",
+    "subType": "shipping-tax",
+    "currencyAmount": 0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "fee",
+    "subType": "shipping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "fee",
+    "subType": "wrapping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "2021-01-07T09:16:19Z",
+    "orderId": "ban-3",
+    "type": "fee",
+    "subType": "handling",
+    "currencyAmount": -0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "opafhhd",
+    "postedDate": "",
+    "orderId": "",
+    "type": "serviceFee",
+    "subType": "warehouse",
+    "currencyAmount": -0.32,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "charge",
+    "subType": "principal",
+    "currencyAmount": 4.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "charge",
+    "subType": "tax",
+    "currencyAmount": 0.39,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "charge",
+    "subType": "wrapping",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "charge",
+    "subType": "wrapping-tax",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "charge",
+    "subType": "shipping",
+    "currencyAmount": 0.61,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "charge",
+    "subType": "shipping-tax",
+    "currencyAmount": 0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "fee",
+    "subType": "shipping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "fee",
+    "subType": "wrapping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "2021-01-18T09:16:19Z",
+    "orderId": "ban-4",
+    "type": "fee",
+    "subType": "handling",
+    "currencyAmount": -0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "r242ehd",
+    "postedDate": "",
+    "orderId": "",
+    "type": "serviceFee",
+    "subType": "warehouse",
+    "currencyAmount": -0.12,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "charge",
+    "subType": "principal",
+    "currencyAmount": 4.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "charge",
+    "subType": "tax",
+    "currencyAmount": 0.39,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "charge",
+    "subType": "wrapping",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "charge",
+    "subType": "wrapping-tax",
+    "currencyAmount": 0.0,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "charge",
+    "subType": "shipping",
+    "currencyAmount": 0.61,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "charge",
+    "subType": "shipping-tax",
+    "currencyAmount": 0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "fee",
+    "subType": "shipping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "fee",
+    "subType": "wrapping",
+    "currencyAmount": -0.31,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "2021-02-02T09:16:19Z",
+    "orderId": "ban-5",
+    "type": "fee",
+    "subType": "handling",
+    "currencyAmount": -0.21,
+    "currencyCode": "EUR"
+  },
+  {
+    "groupId": "iurfysq",
+    "postedDate": "",
+    "orderId": "",
+    "type": "serviceFee",
+    "subType": "warehouse",
+    "currencyAmount": -0.13,
+    "currencyCode": "EUR"
+  }
+]

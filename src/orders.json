@@ -1,0 +1,5 @@
+[{"id":"ban-1","status":"shipped","lastUpdated":"2021-01-05T15:31:11Z","totalAmount":5.52,"totalCurrency":"EUR","paymentMethod":"card","purchaseDate":"2021-01-03T11:31:12Z","sellerId":"banana-shop"},
+{"id":"ban-2","status":"shipped","lastUpdated":"2021-01-07T15:31:11Z","totalAmount":5.52,"totalCurrency":"EUR","paymentMethod":"card","purchaseDate":"2021-01-06T06:32:12Z","sellerId":"banana-shop"},
+{"id":"ban-3","status":"shipped","lastUpdated":"2021-01-09T15:31:11Z","totalAmount":5.52,"totalCurrency":"EUR","paymentMethod":"card","purchaseDate":"2021-01-07T08:15:12Z","sellerId":"banana-shop"},
+{"id":"ban-4","status":"shipped","lastUpdated":"2021-01-19T15:31:11Z","totalAmount":5.52,"totalCurrency":"EUR","paymentMethod":"card","purchaseDate":"2021-01-18T08:15:12Z","sellerId":"banana-shop"},
+{"id":"ban-5","status":"shipped","lastUpdated":"2021-02-04T15:31:11Z","totalAmount":5.52,"totalCurrency":"EUR","paymentMethod":"card","purchaseDate":"2021-02-02T08:15:12Z","sellerId":"banana-shop"}]

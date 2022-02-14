@@ -1,0 +1,23 @@
+[
+  {
+    "id": "opafhhd",
+    "groupStart": "2021-01-03T15:32:45Z",
+    "groupEnd": "2021-01-17T15:32:44Z",
+    "status": "closed",
+    "sellerId": "banana-shop"
+  },
+  {
+    "id": "r242ehd",
+    "groupStart": "2021-01-17T15:32:45Z",
+    "groupEnd": "2021-01-31T15:32:44Z",
+    "status": "closed",
+    "sellerId": "banana-shop"
+  },
+  {
+    "id": "iurfysq",
+    "groupStart": "2021-01-31T15:32:45Z",
+    "groupEnd": "2021-02-13T15:32:44Z",
+    "status": "closed",
+    "sellerId": "banana-shop"
+  }
+]
