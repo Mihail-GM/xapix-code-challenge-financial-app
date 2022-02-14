@@ -1,5 +1,5 @@
 # Mihail Mihalev - Solution to Coding Challenge: Get this data sorted
-Spend 5 hour on this challenge.
+Spend 6 hours on this challenge.
 
 Live demo: https://financial-report-5a3cb.web.app/
 
